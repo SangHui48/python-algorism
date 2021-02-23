@@ -14,6 +14,9 @@
 
 # print(type(e[0:2]))
 
-a = {'name': 'Kim', 'phone': '01012345678', 'birth': '870124'}
+# a = {'name': 'Kim', 'phone': '01012345678', 'birth': '870124'}
 
-print(list(a.keys()))
+# print(list(a.keys()))
+
+list_a = [number for number in range(1,11) if number % 2 == 0]
+print(list_a)
