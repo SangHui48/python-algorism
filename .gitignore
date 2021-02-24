@@ -1,2 +1,5 @@
 venv/
 *.iml
+.idea/
+.vscode/
+resource/
