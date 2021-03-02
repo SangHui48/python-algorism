@@ -3,3 +3,5 @@ venv/
 .idea/
 .vscode/
 resource/
+nkrqb/sound/bad.wav
+nkrqb/sound/good.wav
